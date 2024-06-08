@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **UX/UI desigining , Data Science**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
+  
+- 👨‍💻 My Personal Website/Portfolio [https://pratyushsharma.netlify.app/](https://pratyushsharma.netlify.app/)
 
 - 💬 Ask me about **C++ concepts / oops concepts**
 
